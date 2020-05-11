@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hwangseonu/gin-backend-example/server"
+	"github.com/yoonje/gin-sample-server/server"
 	"log"
 )
 func main() {
